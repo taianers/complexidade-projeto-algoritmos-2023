@@ -1,5 +1,5 @@
 # Complexidade-e-Projetos-de-Algoritmos
-Códigos e estudos feitos sobre Complexidade e Projetos de Algoritmos, período 2022/2.
+Códigos e estudos feitos sobre Complexidade e Projetos de Algoritmos, período 2022/1.
 
 LINK DO COLAB: https://colab.research.google.com/drive/19sqEDukH7aroUODRwZiptFpjPi3leZE6?authuser=1#scrollTo=5iShKYhJyEBW
 
